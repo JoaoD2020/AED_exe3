@@ -22,7 +22,7 @@ public class Main {
         for(i=0;i<5;i++){
             a[i]=(i+1)*(i+1);
         }
-        
+        //oi
         for(i=5;i<10;i++){
             a[i]=(i-3)+"ª-feira";
         }
